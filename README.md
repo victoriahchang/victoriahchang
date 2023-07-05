@@ -1,7 +1,7 @@
 <img src="/banner.png" alt="selfcarespace"/>
 
 # 👩🏻‍💼 About
-Product designer, software engineer, and digital artist with a degree in psychology and neuroscience. Multicultural and multilingual generalist who is always learning, growing, and adventuring. My life mission is to improve mental health through tech and art.
+Software engineer, product designer, and mental health founder with a psychology and neuroscience degree. Early hire at startups leading frontend initiatives and shipping user-facing features for web. Excels at learning, creativity, empathy, collaboration, and communication.
 
 # 🌐 Links
 - LinkedIn: https://linkedin.com/in/victoriahchang
